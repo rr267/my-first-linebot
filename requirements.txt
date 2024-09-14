@@ -1,0 +1,5 @@
+openai
+line-bot-sdk
+flask
+pyquery
+gunicorn
